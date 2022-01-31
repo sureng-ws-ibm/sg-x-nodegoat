@@ -21,9 +21,7 @@
     "serve-favicon": "^2.3.0",
     "swig": "^1.4.2",
     "underscore": "^1.8.3",
-    @vue/cli-service 4.5.15,
-    utile 0.2.1,
-    debug 4.3.3   
+     "debug": "4.3.3"   
   },
   "comments": {
     "//": "a9 insecure components"
