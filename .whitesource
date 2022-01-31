@@ -1,9 +1,10 @@
-{
+
+ {
   "scanSettings": {
     "configMode": "LOCAL",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": []
+    "baseBranches": [NoDevDependencies]
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
@@ -12,7 +13,7 @@
   "issueSettings": {
     "minSeverityLevel": "LOW"
   },
-  "remediateSettings": {
+ "remediateSettings": {
     "workflowRules": {
       "enabled": true
     }
