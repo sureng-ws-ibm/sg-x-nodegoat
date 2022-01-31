@@ -4,7 +4,7 @@
     "configMode": "LOCAL",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": ["master", "NoDevDependencies"]
+    "baseBranches": "Test-Develop"
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
